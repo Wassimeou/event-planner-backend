@@ -1,0 +1,33 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Optional coverage directory
+coverage/
+
+# Optional dependency directories
+jspm_packages/
+bower_components/
+
+# Optional TernJS directory
+.tern-port
